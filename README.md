@@ -1,2 +1,0 @@
-# CyberOnce.mx
-page web
